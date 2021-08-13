@@ -1,0 +1,6 @@
+---
+more:
+  - name: 作业提交系统
+    ref: "https://iot.qlu.edu.cn/javaee-f21"
+    icon: "gdoc_gitlab"
+    external: true
