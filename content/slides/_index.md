@@ -14,3 +14,5 @@ title: 随书课件
 - [第08章 Servlet高级应用](./ch08.pdf)
 - [第09章 Web安全性入门](./ch09.pdf)
 - [第10章 Ajax技术基础](./ch10.pdf)
+- [第11章 Hibernate框架基础](./ch11.pdf)
+- [第12章 Struts2框架基础](./ch12.pdf)
